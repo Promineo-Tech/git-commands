@@ -1,4 +1,4 @@
-# How to Setup Git
+# Learning about Git
 
 ## Downloads
 <details>
