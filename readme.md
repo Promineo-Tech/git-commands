@@ -25,7 +25,7 @@ Link - https://nodejs.org/en/download/
 
 Node allows you to run JavaScript outside the browser (uses the same JavaScript engine).  This will also install npm too. Npm is the tool you use to install packages to your app.  Yarn is an alternative to Npm, you just have to install it manually.
 ### VSCode
-Visual Studio Code is a very popular code editor used for frontend development.  
+Visual Studio Code is a very popular code editor used for development.  
 
 Link - https://code.visualstudio.com/download
 
@@ -40,10 +40,10 @@ Repl is a popular live code editor. It is a good way to share and test code onli
 
 ## CLI
 
-CLI (Command Line Interface): Also called the terminal, is the program we will use to interact with our computer's files and directories. It is helpful to become know how to use some of the various commands you can use in the terminal. On Apple computers we are able to use the built in terminal. On Windows machines we will need to download Bash for windows which can be found [here](https://gitforwindows.org/)
+CLI (Command Line Interface): Also called the terminal, is the program we will use to interact with our computer's files and directories. It is helpful to become know how to use some of the various commands you can use in the terminal. On Apple computers you are able to use the built in terminal. On Windows machines you will need to download Bash for Windows which can be found [here](https://gitforwindows.org/)
 
 ## Common Terminal Commands (Same if you are using BASH for Windows)
-Note: If are a Windows user and not using BASH, then you are using the <a href="https://red-dot-geek.com/basic-windows-command-prompt-commands/#sec-basic">Windows Command Prompt</a> which are different commands.
+<strong>Note:</strong> If you are a Windows user and not using BASH, then you are using the <a href="https://red-dot-geek.com/basic-windows-command-prompt-commands/#sec-basic">Windows Command Prompt</a> which have different commands.
 
 - pwd: Stands for present working directory. Show's where you currently are in your file tree.
 
@@ -51,7 +51,7 @@ Note: If are a Windows user and not using BASH, then you are using the <a href="
 
 - cd: Stands for change directory and is used to navigate the file tree. The command should be formatted like this: `cd [the name of the directory]`. You can also navigate up a level by typing `cd ..`.
 
-- mkdir directoryname: Stands for make directory. Creates a new directory at your current location.
+- mkdir directory name: Stands for make directory. Creates a new directory at your current location.
 
 - touch filename: Creates a new file at the current location. Should be called with the name and extension of the file to be created ie `touch index.html`.
 
