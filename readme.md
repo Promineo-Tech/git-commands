@@ -23,7 +23,7 @@ Link - https://www.github.com
 ### Node/NPM
 Link - https://nodejs.org/en/download/
 
-Node allows you to run JavaScript outside the browser (uses the same JavaScript engine).  This will also install npm too. Npm is the tool you use to install packages to your app.  Yarn is an alternative to Npm, you just have to install it manually.
+Node allows you to run JavaScript outside the browser (uses the same <a href="https://v8.dev/">JavaScript engine</a>).  This will also install npm too. Npm is the tool you use to install packages to your app.  Yarn is an alternative to Npm, you just have to install it manually.
 ### VSCode
 Visual Studio Code is a very popular code editor used for development.  
 
