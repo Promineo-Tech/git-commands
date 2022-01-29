@@ -120,3 +120,12 @@ We are able to easily make copies of existing repositories on GitHub, this is ca
 ```bash
 git clone "url for github repo"
 ```
+
+ ### Further reading and tutorials:
+
+  * [Git: official site](https://git-scm.com/)
+  * [Github: official tutorial](https://try.github.io/levels/1/challenges/1)
+  * [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+  * [Git: official tutorial](https://git-scm.com/docs/gittutorial)
+  * [Termianl turorial](https://www.davidbaumgold.com/tutorials/command-line/)
+ 
