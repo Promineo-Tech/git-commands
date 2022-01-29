@@ -1,7 +1,5 @@
-# Orientation Day Lecture Notes
-This repository contains a list of installs students need to perform to set up their development environment.
+# How to Setup Git
 
-Here's the slideshow for the day: https://slides.com/dmweb/web-remote-orientation#/
 ## Downloads
 <details>
   <summary>Show all downloads</summary>
