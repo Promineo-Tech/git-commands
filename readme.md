@@ -63,7 +63,7 @@ Note: If are a Windows user and not using BASH, then you are using the <a href="
 
 Git is a version control system used to track the progress of our projects. It allows us to commit changes at various points in the development process. A commit is like a milestone. You should get in the habit of committing your code often. GitHub is the website where our git repositories are stored. To store our code remotely, we can "push" our commits to github. Before pushing our code, there are three stages in which a file can exist in relation to git which are represented in this image:
 
-![Git stages](https://res.cloudinary.com/practicaldev/image/fetch/s--Si7ksd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AdiRLm1S5hkVoh5qeArND0Q.png)
+![Git stages](git.png)
 
 1. As we are working on our files, git does not automatically track any changes made. When we are ready to have git track these changes, we use the `git add` command and provide it with whatever files we want it to watch. By using the command `git add .` we can tell git to catalog all changes in all files in our current directory. This moves our files to the staging area.
 2. The staging area is used by git to prepare any changes ready for saving. In this stage, git has cataloged any changes that we have told it to and is readying them for the next step. We commit our changes by using the `git commit` command. This will move our files from the staging area to the git repository. This is like pressing the save button. Our commit should always be accompanied a message describing what changes have been made and is formatted like this `git commit -m "message"`.
