@@ -123,6 +123,7 @@ git clone "url for github repo"
 
 ## Additional Resources
 
+  * [Terminal Commands - Mac or GitBash](https://www.youtube.com/watch?v=5XgBd6rjuDQ&t=606s)
   * [Git: official site](https://git-scm.com/)
   * [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
   * [Git: official tutorial](https://git-scm.com/docs/gittutorial)
