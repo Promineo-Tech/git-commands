@@ -127,3 +127,4 @@ git clone "url for github repo"
   * [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
   * [Git: official tutorial](https://git-scm.com/docs/gittutorial)
   * [CS50 Git Lecture](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
+  * [CS50 Git Under the hood](https://www.youtube.com/watch?v=lG90LZotrpo)
