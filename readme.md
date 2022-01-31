@@ -121,7 +121,7 @@ We are able to easily make copies of existing repositories on GitHub, this is ca
 git clone "url for github repo"
 ```
 
- ### Further reading and tutorials:
+## Additional Resources
 
   * [Git: official site](https://git-scm.com/)
   * [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
