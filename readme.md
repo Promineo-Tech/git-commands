@@ -19,17 +19,17 @@ To use Git properly, you will also need a GitHub account. When you first install
 
 Link - https://www.github.com
 
-
-### Node/NPM
-Link - https://nodejs.org/en/download/
-
-Node allows you to run JavaScript outside the browser (uses the same <a href="https://v8.dev/">JavaScript engine</a>).  This will also install npm too. Npm is the tool you use to install packages to your app.  Yarn is an alternative to Npm, you just have to install it manually.
 ### VSCode
 Visual Studio Code is a very popular code editor used for development.  
 
 Link - https://code.visualstudio.com/download
 
 Students using windows can change the default terminal in VSCode shell by typing `ctrl + shift + p` to open the search bar. Once the search bar is opened, type `select default shell`. You will be able to select Bash as an option.
+
+### Node/NPM
+Link - https://nodejs.org/en/download/
+
+Node allows you to run JavaScript outside the browser (uses the same <a href="https://v8.dev/">JavaScript engine</a>).  This will also install npm too. Npm is the tool you use to install packages to your app.  Yarn is an alternative to Npm, you just have to install it manually.
 
 ### Repl.it
 Link - https://repl.it/
@@ -124,6 +124,7 @@ git clone "url for github repo"
 ## Additional Resources
 
   * [Terminal Commands - Mac or GitBash](https://www.youtube.com/watch?v=5XgBd6rjuDQ&t=606s)
+  * [Git: The Simple Guide](https://rogerdudler.github.io/git-guide/)
   * [Git: official site](https://git-scm.com/)
   * [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
   * [Git: official tutorial](https://git-scm.com/docs/gittutorial)
