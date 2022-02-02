@@ -125,8 +125,8 @@ git clone "url for github repo"
 
   * [Terminal Commands - Mac or GitBash](https://www.youtube.com/watch?v=5XgBd6rjuDQ&t=606s)
   * [Git: The Simple Guide](https://rogerdudler.github.io/git-guide/)
-  * [Git: official site](https://git-scm.com/)
   * [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
-  * [Git: official tutorial](https://git-scm.com/docs/gittutorial)
+  * [Git: Official tutorial](https://git-scm.com/docs/gittutorial)
+  * [Git: Official Site](https://git-scm.com/)
   * [CS50 Git Lecture](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
   * [CS50 Git Under the hood](https://www.youtube.com/watch?v=lG90LZotrpo)
