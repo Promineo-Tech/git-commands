@@ -131,3 +131,4 @@ git clone "url for github repo"
   * [CS50 Git Lecture](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
   * [Git Branching Game](https://www.youtube.com/watch?v=lG90LZotrpo)
   * [CS50 Git Under the hood](https://www.youtube.com/watch?v=lG90LZotrpo)
+  * [Shoe Hidden Folders and Files on Windows](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5)
